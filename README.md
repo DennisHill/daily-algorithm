@@ -1,2 +1,2 @@
 # daily-algorithm
-every day, an algorithm question
+每天一道算法题
